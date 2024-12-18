@@ -1,5 +1,35 @@
 [
   {
+    "name": "Meerkat",
+    "track": "Canary",
+    "version": "2024.3.1.6"
+  },
+  {
+    "name": "Ladybug Feature Drop",
+    "track": "Stable",
+    "version": "2024.2.2.12"
+  },
+  {
+    "name": "Ladybug Feature Drop",
+    "track": "Canary",
+    "version": "2024.2.2.9"
+  },
+  {
+    "name": "Ladybug",
+    "track": "Stable",
+    "version": "2024.2.1.9"
+  },
+  {
+    "name": "Ladybug",
+    "track": "Canary",
+    "version": "2024.2.1.5"
+  },
+  {
+    "name": "Koala Feature Drop",
+    "track": "Stable",
+    "version": "2024.1.2.12"
+  },
+  {
     "name": "Koala Feature Drop",
     "track": "Canary",
     "version": "2024.1.2.8"
